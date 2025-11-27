@@ -449,7 +449,7 @@ th{color:#c0c0c0;font-weight:500;}
     width: 100%;
     display: flex;
     flex-direction: column;
-    background: #000000;
+    background: #fff;
 }
 
 /* Чорний верх */
@@ -481,3 +481,7 @@ th{color:#c0c0c0;font-weight:500;}
     text-decoration: underline;
     opacity: 0.8;
 }
+
+/* Editable fields for custom sensors/sirens on ext devices */
+.ext-edit{width:160px;padding:3px 6px;background:#101010;border:1px solid #444;color:#fff;border-radius:4px;font-size:12px;}
+.ext-edit:focus{border-color:#00ff66;box-shadow:0 0 6px rgba(0,255,102,0.4);outline:none;}
