@@ -49,7 +49,7 @@
     modulesExt: {
   "Розширювачі зон":[
     { name:"M-Z box",   img:"assets/modules/M-Z box.png", normal:60, alarm:60 },
-    { name:"M-ZP box",  img:"assets/modules/M-ZP_box.png", normal:200, alarm:200 },
+    { name:"M-ZP box",  img:"assets/modules/M-ZPbox.png", normal:200, alarm:200 },
     { name:"M-ZP sBox", img:"assets/modules/M-ZP sBox.png", normal:150, alarm:150 },
     { name:"M-ZP mBox", img:"assets/modules/M-ZP mBox.png", normal:200, alarm:200 }
   ],
@@ -62,11 +62,11 @@
   ]
   },
     sensors:[
-      { name:"Swan Quad", img:"assets/sensors/swan_quad.png", normal:8, alarm:10 },
-      { name:"Swan PGB", img:"assets/sensors/swan_pgb.png",  normal:16, alarm:22 },
+      { name:"Swan Quad", img:"assets/sensors/swanquad.png", normal:8, alarm:10 },
+      { name:"Swan PGB", img:"assets/sensors/swanpgb.png",  normal:16, alarm:22 },
       { name:"GBD II", img:"assets/sensors/gbd 2.png", normal:22, alarm:26 },
       { name:"SRPG II", img:"assets/sensors/srpg 2.png", normal:16, alarm:22 },
-      { name:"SRP 600", img:"assets/sensors/srp_600.png", normal:8, alarm:8 },
+      { name:"SRP 600", img:"assets/sensors/srp600.png", normal:8, alarm:8 },
       { name:"GSN Patrol 803", img:"assets/sensors/patrol 803.png", normal:17, alarm:19 },
       { name:"LC-100", img:"assets/sensors/LC 100.png", normal:8, alarm:10 },
       { name:"LC-102", img:"assets/sensors/LC 102.png", normal:16, alarm:18 },
