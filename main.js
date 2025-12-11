@@ -32,7 +32,6 @@
           { name:"K-PAD OLED", normal:120, alarm:120 },
           { name:"K-PAD OLED+", normal:120, alarm:120 }
         ]
-        ]
       },
       "K-GLCD": {
         img:"assets/kb/K-GLCD.png",
