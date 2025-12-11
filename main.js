@@ -28,7 +28,10 @@
           { name:"K-PAD8",   normal:55, alarm:55 },
           { name:"K-PAD8+",  normal:55, alarm:55 },
           { name:"K-PAD16",  normal:55, alarm:55 },
-          { name:"K-PAD16+", normal:55, alarm:55 }
+          { name:"K-PAD16+", normal:55, alarm:55 },
+          { name:"K-PAD OLED", normal:120, alarm:120 },
+          { name:"K-PAD OLED+", normal:120, alarm:120 }
+        ]
         ]
       },
       "K-GLCD": {
